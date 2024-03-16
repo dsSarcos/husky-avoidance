@@ -1,0 +1,2 @@
+sensor_msgs/LaserScan scan
+float64 distance
